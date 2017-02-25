@@ -27,10 +27,12 @@ layout: default
     {% endfor %}
   </ul>
   {% endif %}
+  <p>
   <label for="search-authors">Filter Authors:</label>
   <input type="search" name="filter-authors" id="search-authors" value />
   <label for="search-titles">Filter Titles:</label>
   <input type="search" name="filter-titles" id="search-titles" value />
+  </p>
 </div>
 {% if site.sections %}
 {% for section in site.sections %}
@@ -54,5 +56,5 @@ layout: default
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 <!-- Search Widget -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="../js/search.js"></script>
