@@ -1,64 +1,64 @@
 ---
-booktitle: Gaussian Processes in Practice
-series: Proceedings of Machine Learning Research
-volume: 1
-start: 2006-06-12
-end: 2006-06-13
-published: 2007-03-11
-comments: false
-year: '2006'
-shortname: GPIP
-bibsource: http://jmlr.csail.mit.edu/proceedings/
+booktitle: Proceedings of the Workshop on Automatic Machine Learning
+volume: 64
+year: '2016'
+published: 2016-12-04
+start: 2016-06-24
+end: 2016-06-24
+shortname: AutoML
 layout: proceedings
-id: LawrenceNSACQ2006
+series: Proceedings of Machine Learning Research
+id: AutoML-2016
 month: 0
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
-sections: 
+cycles: false
 editor:
-- given: Neil
-  family: Lawrence
-- given: Anton
-  family: Schwaighofer
+- given: Frank
+  family: Hutter
+- given: Lars
+  family: Kotthoff
 - given: Joaquin
-  family: Quiñonero Candela
+  family: Vanschoren
 description: |
-  Gaussian Processes in Practice
-    Held in Bletchley Park, UK on 12-13 June 2006
+  Proceedings of the Workshop on Automatic Machine Learning on 24 June 2016
 
-  Published as Volume 1 by the Proceedings of Machine Learning Research on 11 March 2007.
+  Published as Volume 64 by the Proceedings of Machine Learning Research on 04 December 2016.
 
   Volume Edited by:
-    Neil Lawrence
-    Anton Schwaighofer
-    Joaquin Quiñonero Candela
+    Frank Hutter
+    Lars Kotthoff
+    Joaquin Vanschoren
 
   Series Editors:
     Neil D. Lawrence
-date_str: 12--13 Jun
+    Mark Reid
+date_str: 24 Jun
 url: http://proceedings.mlr.press
-baseurl: "/v1"
+baseurl: "/v64"
 twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
 github:
   edit: true
-  repository: v1
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+  repository: v64
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
-  name: Gaussian Processes in Practice
-  url: http://gpss.cc/gpip/
-  location: Bletchley Park, UK
+  name: Workshop on Automatic Machine Learning
+  url: https://sites.google.com/site/automl2016/
+  location: 
   dates:
-  - 2006-06-12
-  - 2006-06-13
+  - 2016-06-24
 analytics:
   google:
     tracking_id: UA-92432422-1
 # Site settings
-# Auto generated from v1.bib
+# Auto generated from v64.bib
