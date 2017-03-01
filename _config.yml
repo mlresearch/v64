@@ -1,0 +1,64 @@
+---
+booktitle: Gaussian Processes in Practice
+series: Proceedings of Machine Learning Research
+volume: 1
+start: 2006-06-12
+end: 2006-06-13
+published: 2007-03-11
+comments: false
+year: '2006'
+shortname: GPIP
+bibsource: http://jmlr.csail.mit.edu/proceedings/
+layout: proceedings
+id: LawrenceNSACQ2006
+month: 0
+abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
+sections: 
+editor:
+- given: Neil
+  family: Lawrence
+- given: Anton
+  family: Schwaighofer
+- given: Joaquin
+  family: Quiñonero Candela
+description: |
+  Gaussian Processes in Practice
+    Held in Bletchley Park, UK on 12-13 June 2006
+
+  Published as Volume 1 by the Proceedings of Machine Learning Research on 11 March 2007.
+
+  Volume Edited by:
+    Neil Lawrence
+    Anton Schwaighofer
+    Joaquin Quiñonero Candela
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 12--13 Jun
+url: http://proceedings.mlr.press
+baseurl: "/v1"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v1
+bibtex_copy: true
+endnote_copy: true
+apa_copy: true
+email: ''
+conference:
+  name: Gaussian Processes in Practice
+  url: http://gpss.cc/gpip/
+  location: Bletchley Park, UK
+  dates:
+  - 2006-06-12
+  - 2006-06-13
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v1.bib
