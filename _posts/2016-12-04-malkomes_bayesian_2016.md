@@ -31,7 +31,7 @@ author:
 - given: Roman
   family: Garnett
 date: 2016-12-04
-address: 
+address: New York, New York, USA
 publisher: PMLR
 container-title: Proceedings of the Workshop on Automatic Machine Learning
 volume: '64'

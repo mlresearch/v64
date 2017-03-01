@@ -22,7 +22,8 @@ editor:
 - given: Joaquin
   family: Vanschoren
 description: |
-  Proceedings of the Workshop on Automatic Machine Learning on 24 June 2016
+  Proceedings of the Workshop on Automatic Machine Learning
+    Held in New York, New York, USA on 24 June 2016
 
   Published as Volume 64 by the Proceedings of Machine Learning Research on 04 December 2016.
 
@@ -54,7 +55,7 @@ email: ''
 conference:
   name: Workshop on Automatic Machine Learning
   url: https://sites.google.com/site/automl2016/
-  location: 
+  location: New York, New York, USA
   dates:
   - 2016-06-24
 analytics:
