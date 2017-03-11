@@ -10,9 +10,6 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: AutoML-2016
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Frank
@@ -21,6 +18,7 @@ editor:
   family: Kotthoff
 - given: Joaquin
   family: Vanschoren
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Workshop on Automatic Machine Learning
     Held in New York, New York, USA on 24 June 2016
@@ -38,7 +36,7 @@ description: |
 date_str: 24 Jun
 url: http://proceedings.mlr.press
 baseurl: "/v64"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -50,6 +48,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -63,3 +62,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v64.bib
+---
